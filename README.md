@@ -49,8 +49,9 @@ This repository provides a Jupyter Notebook showcasing various image clustering 
 1. **Clone the repository**:
    Run the following command:
    ```bash
-   git clone https://github.com/rixscx/CV_Lab.git
-   cd CV_Lab 
+   git clone https://github.com/rixscx/Image_Clustering.git
+   cd Image_Clustering
+   ```
 
 2. **Install Dependencies**:
    Use the following command to install required libraries:
